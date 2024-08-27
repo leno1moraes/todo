@@ -1,6 +1,11 @@
-# projeto_todo_react_typescript
-Projeto TO DO com React TypeScript
+![image](https://github.com/user-attachments/assets/a6cf2f3e-9c8f-4071-b353-b0c53ff6868d)
 
+
+# Projeto To DO
+
+Bem-vindo ao **To Do**, um projeto desenvolvido em React TypeScript utilizando Vite como ferramenta de build. Este aplicativo simples e eficiente permite que você cadastre tarefas com um título e um nível de dificuldade, ajudando a organizar suas atividades de forma prática e intuitiva.
+
+Explore as funcionalidades e veja como ele pode facilitar o seu dia a dia. Além disso, você pode conferir uma demonstração ao vivo diretamente **neste link**.
 
 ------------------------------------------------------------------
 
