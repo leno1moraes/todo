@@ -65,3 +65,16 @@ git push
 ```
 npm run deploy
 ```
+
+------------------------------------------------------------------
+
+## Demos 
+
+![image](https://github.com/user-attachments/assets/8d4e9370-83fa-43d4-ae77-6816a22faabd)
+
+![image](https://github.com/user-attachments/assets/857eabbb-f3c4-41d7-b5ea-6d65e1d0fbca)
+
+![image](https://github.com/user-attachments/assets/055fb6e5-ca27-41a7-bc89-75cc8c2c76e9)
+
+Projeto baseado no curso: https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/
+
